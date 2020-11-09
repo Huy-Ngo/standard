@@ -10,11 +10,6 @@ This introduction introduces the term public code, explains why this is importan
 
 Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
-### Background knowledge on public code
-
-* [Collaborative Code is the Future of Cities @ DecidimFest 2019](https://www.youtube.com/watch?v=cnJtnZ9Cx1o). Talk by Ben Cerveny on the background behind the Foundation for Public Code.
-* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c). Touches on topics like procurement, law and more.
-
 ## Why public code?
 
 There are many reasons for why public code is relevant now.
@@ -158,9 +153,14 @@ These people work at:
 
 It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
-## Further reading
+## Further reading 
 
 - ["Modernising Public Infrastructure with Free Software" whitepaper](https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf) by the Free Software Foundation Europe
+
+### Videos on public code
+
+* [Collaborative Code is the Future of Cities @ DecidimFest 2019](https://www.youtube.com/watch?v=cnJtnZ9Cx1o). Talk by Ben Cerveny on the background behind the Foundation for Public Code.
+* [Public Money? Public Code! - Panel @ Nextcloud Conference 2019](https://youtube.com/watch?v=QHFkD4xfd6c). Touches on topics like procurement, law and more.
 
 ## Get involved
 
