@@ -153,7 +153,7 @@ These people work at:
 
 It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
-## Further reading 
+## Further reading
 
 - ["Modernising Public Infrastructure with Free Software" whitepaper](https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf) by the Free Software Foundation Europe
 
